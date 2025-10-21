@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f8a2f0e-2379-4cea-a65b-9c2b6bfa73e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Whois.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Whois.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <updated>1756746829041</updated>
       <workItem from="1756746830037" duration="672000" />
       <workItem from="1760932242594" duration="1073000" />
-      <workItem from="1761032565793" duration="3934000" />
+      <workItem from="1761032565793" duration="4306000" />
     </task>
     <servers />
   </component>
@@ -73,6 +72,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Whois$main.coverage" NAME="main Coverage Results" MODIFIED="1761036247572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Whois$main.coverage" NAME="main Coverage Results" MODIFIED="1761036878573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
